@@ -1,0 +1,79 @@
+sig_key,total_genes,intersection_count,pct_of_sp_sig,pct_of_fridman,intersecting_genes
+"('Colon', 'Crypt stem cell')",76,0,0.0,0.0,
+"('Colon', 'Endothelial cell')",609,5,0.82,6.49,"CDKN2B, CRYAB, NDN, RABGGTA, SERPINE1"
+"('Colon', 'Enterocyte')",227,1,0.44,1.3,CDKN2D
+"('Colon', 'Fibroblast')",767,4,0.52,5.19,"CDKN2B, HSPA2, IRF7, SMPD1"
+"('Colon', 'Goblet cell')",7,0,0.0,0.0,
+"('Colon', 'Macrophage')",1529,1,0.07,1.3,THBS1
+"('Colon', 'Mast cell')",1887,13,0.69,16.88,"CDKN1A, HSPA2, HTATIP2, ISG15, MDM2, OPTN, PEA15, RAB13, RAB31, RAB5B, SERPINE1, THBS1, TP53"
+"('Colon', 'Plasma cell')",8,0,0.0,0.0,
+"('Colon', 'Transit amplifying cell')",65,2,3.08,2.6,"CXCL14, NRG1"
+"('Colon', 'Tuft cell')",40,0,0.0,0.0,
+"('Colon', 'gdT')",797,9,1.13,11.69,"CDKN2A, CITED2, CREG1, GSN, IFNG, IRF7, MAP2K3, RGL2, RHOB"
+"('Heart_Cell', 'Atrial Cardiomyocyte')",1648,17,1.03,22.08,"CCN2, CDKN1C, COL1A2, FN1, IGFBP3, IGFBP4, IGFBP5, IGFBP6, IGSF3, ISG15, MDM2, S100A11, SERPINE1, SPARC, TNFAIP2, TNFAIP3, VIM"
+"('Heart_Cell', 'Endothelial cell')",54,0,0.0,0.0,
+"('Heart_Cell', 'Mural cell')",29,1,3.45,1.3,CDKN1C
+"('Heart_Cell', 'Ventricular Cardiomyocyte')",2547,6,0.24,7.79,"CCND1, CDKN1C, IGFBP6, RGL2, SMPD1, TGFB1I1"
+"('Heart_Nuclei', 'Adipocyte')",259,1,0.39,1.3,SERPINB2
+"('Heart_Nuclei', 'Atrial Cardiomyocyte')",308,4,1.3,5.19,"CCND1, GUK1, HSPA2, IGFBP2"
+"('Heart_Nuclei', 'CD4T')",23,0,0.0,0.0,
+"('Heart_Nuclei', 'CD8T')",10,0,0.0,0.0,
+"('Heart_Nuclei', 'Endothelial cell')",89,2,2.25,2.6,"CCND1, IGFBP6"
+"('Heart_Nuclei', 'Fibroblast')",58,2,3.45,2.6,"CCND1, IGFBP2"
+"('Heart_Nuclei', 'Macrophage')",36,2,5.56,2.6,"CCND1, FN1"
+"('Heart_Nuclei', 'Mono+mac')",23,0,0.0,0.0,
+"('Heart_Nuclei', 'Monocyte')",283,4,1.41,5.19,"CCND1, FN1, IGFBP4, RHOB"
+"('Heart_Nuclei', 'Mural cell')",88,3,3.41,3.9,"CCN2, IGFBP2, NDN"
+"('Heart_Nuclei', 'Neural cell')",291,8,2.75,10.39,"ALDH1A3, CCN2, CCND1, CYP1B1, IGFBP6, NRG1, TNFAIP2, TNFAIP3"
+"('Heart_Nuclei', 'Ventricular Cardiomyocyte')",1005,10,1.0,12.99,"CD44, CDKN1A, CITED2, FN1, GUK1, IGFBP5, MAP2K3, PEA15, RAB31, STAT1"
+"('Ileum', 'B cell')",99,0,0.0,0.0,
+"('Ileum', 'CD4T')",61,0,0.0,0.0,
+"('Ileum', 'CD8T')",15,0,0.0,0.0,
+"('Ileum', 'Crypt stem cell')",1654,6,0.36,7.79,"CCN2, CDKN1C, HSPA2, IGFBP3, ISG15, TSPYL5"
+"('Ileum', 'Endothelial cell')",328,4,1.22,5.19,"IRF7, NDN, RAB31, SERPINE1"
+"('Ileum', 'Enterocyte')",284,3,1.06,3.9,"CDKN2A, F3, HSPA2"
+"('Ileum', 'Enteroendocrine cell')",126,2,1.59,2.6,"IRF5, NDN"
+"('Ileum', 'Fibroblast')",303,1,0.33,1.3,SMPD1
+"('Ileum', 'Goblet cell')",1370,9,0.66,11.69,"CCND1, CDKN1C, CDKN2A, HPS5, HSPA2, ING1, IRF5, RRAS, THBS1"
+"('Ileum', 'Paneth cell')",1324,2,0.15,2.6,"CDKN2D, F3"
+"('Ileum', 'Plasma cell')",349,3,0.86,3.9,"HSPA2, RHOB, RRAS"
+"('Ileum', 'gdT')",150,1,0.67,1.3,CDKN2A
+"('Kidney', 'CD4T')",15,0,0.0,0.0,
+"('Kidney', 'CD8T')",25,0,0.0,0.0,
+"('Kidney', 'Endothelial cell')",102,0,0.0,0.0,
+"('Kidney', 'Epithelial cell')",123,3,2.44,3.9,"CD44, IFNG, TNFAIP3"
+"('Kidney', 'Fibroblast')",826,1,0.12,1.3,IFNG
+"('Kidney', 'Mono+mac')",400,4,1.0,5.19,"FILIP1L, HSPA2, IFNG, PEA15"
+"('Kidney', 'NK')",2333,5,0.21,6.49,"CDKN2D, CLTB, OPTN, RAB31, STAT1"
+"('Lung', 'Adventitial cell')",219,0,0.0,0.0,
+"('Lung', 'Alveolar adventitial fibroblast')",48,0,0.0,0.0,
+"('Lung', 'Basal cell')",126,0,0.0,0.0,
+"('Lung', 'Basophil')",14,0,0.0,0.0,
+"('Lung', 'Bronchial smooth muscle cell')",128,0,0.0,0.0,
+"('Lung', 'CD4T')",41,0,0.0,0.0,
+"('Lung', 'CD8T')",39,0,0.0,0.0,
+"('Lung', 'Capillary endothelial cell')",119,1,0.84,1.3,THBS1
+"('Lung', 'Club cell')",340,1,0.29,1.3,IGFBP5
+"('Lung', 'Endothelial cell of artery')",269,0,0.0,0.0,
+"('Lung', 'Endothelial cell of lymphatic vessel')",1366,3,0.22,3.9,"CD44, MDM2, NRG1"
+"('Lung', 'Macrophage')",132,1,0.76,1.3,CDKN2A
+"('Lung', 'Monocyte')",133,1,0.75,1.3,NRG1
+"('Lung', 'Multiciliated epithelial cell')",177,0,0.0,0.0,
+"('Lung', 'Plasma cell')",37,0,0.0,0.0,
+"('Lung', 'Pulmonary alveolar type 1 cell')",145,1,0.69,1.3,IGFBP2
+"('Lung', 'Pulmonary alveolar type 2 cell')",63,1,1.59,1.3,IGFBP2
+"('Lung', 'Respiratory tract goblet cell')",292,2,0.68,2.6,"CDKN2A, FN1"
+"('Lung', 'Vein endothelial cell')",65,2,3.08,2.6,"CD44, NRG1"
+"('Skin', 'CD4T')",3552,7,0.2,9.09,"CDKN2A, CREG1, IGFBP3, IGFBP4, IGFBP5, PEA15, RAB5B"
+"('Skin', 'CD8T')",3493,10,0.29,12.99,"CDKN2A, CREG1, HPS5, HTATIP2, IGFBP3, IGFBP4, PEA15, RAB5B, THBS1, TNFAIP2"
+"('Skin', 'DC')",3955,9,0.23,11.69,"CDKN2A, CYP1B1, F3, FN1, IGFBP3, NRG1, OPTN, SERPINB2, THBS1"
+"('Skin', 'Differentiated_KC')",57,1,1.75,1.3,TNFAIP2
+"('Skin', 'Fibroblast')",1908,4,0.21,5.19,"CDKN2A, CDKN2B, CDKN2D, IGSF3"
+"('Skin', 'LE')",3335,5,0.15,6.49,"ALDH1A3, CYP1B1, F3, RAB5B, THBS1"
+"('Skin', 'Macrophage')",5079,7,0.14,9.09,"CDKN2A, CDKN2B, FN1, NDN, NRG1, OPTN, SMPD1"
+"('Skin', 'Mast cell')",1982,3,0.15,3.9,"CDKN2A, CREG1, THBS1"
+"('Skin', 'Melanocyte')",338,1,0.3,1.3,IGSF3
+"('Skin', 'NK')",1423,4,0.28,5.19,"AOPEP, CDKN2A, IGFBP4, RAB5B"
+"('Skin', 'Pericyte')",2002,0,0.0,0.0,
+"('Skin', 'Treg')",4696,10,0.21,12.99,"CCN2, CDKN2A, CREG1, F3, IGFBP4, IGFBP5, IGFBP6, RRAS, THBS1, TP53"
+"('Skin', 'VE')",1455,2,0.14,2.6,"F3, MMP1"

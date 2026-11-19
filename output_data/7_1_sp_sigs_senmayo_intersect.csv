@@ -1,0 +1,79 @@
+sig_key,total_genes,intersection_count,pct_of_sp_sig,pct_of_senmayo,intersecting_genes
+"('Colon', 'Crypt stem cell')",76,0,0.0,0.0,
+"('Colon', 'Endothelial cell')",609,7,1.15,5.6,"ANGPTL4, BMP2, CCL2, HGF, PGF, PTGES, SERPINE1"
+"('Colon', 'Enterocyte')",227,2,0.88,1.6,"CXCL16, SERPINE2"
+"('Colon', 'Fibroblast')",767,10,1.3,8.0,"ANG, CCL7, CXCL10, CXCL2, CXCL3, GDF15, ICAM3, IL6, PTGES, TNFRSF10C"
+"('Colon', 'Goblet cell')",7,0,0.0,0.0,
+"('Colon', 'Macrophage')",1529,7,0.46,5.6,"AREG, BMP6, CCL13, CCL2, GEM, IL6, PTGER2"
+"('Colon', 'Mast cell')",1887,16,0.85,12.8,"ACVR1B, CCL4, CTSB, CXCL16, CXCL2, CXCL8, ETS2, IL1A, IL1B, IL6ST, PIGF, PLAU, PTGER2, SERPINE1, TNFRSF1B, TUBGCP2"
+"('Colon', 'Plasma cell')",8,0,0.0,0.0,
+"('Colon', 'Transit amplifying cell')",65,1,1.54,0.8,NRG1
+"('Colon', 'Tuft cell')",40,2,5.0,1.6,"GMFG, SEMA3F"
+"('Colon', 'gdT')",797,3,0.38,2.4,"CSF1, SERPINE2, TNFRSF1A"
+"('Heart_Cell', 'Atrial Cardiomyocyte')",1648,29,1.76,23.2,"ANGPTL4, AXL, C3, CCL2, CCL4, CD9, CSF1, CXCL12, CXCL2, EDN1, ETS2, HGF, ICAM1, IGFBP3, IGFBP4, IGFBP5, IGFBP6, IL32, IL6ST, MMP14, MMP2, PECAM1, PGF, PTBP1, SEMA3F, SERPINE1, SPP1, TIMP2, TUBGCP2"
+"('Heart_Cell', 'Endothelial cell')",54,1,1.85,0.8,ANGPTL4
+"('Heart_Cell', 'Mural cell')",29,1,3.45,0.8,VEGFA
+"('Heart_Cell', 'Ventricular Cardiomyocyte')",2547,12,0.47,9.6,"ANGPTL4, AXL, C3, CSF1, EGF, IGFBP6, MMP14, MMP2, SCAMP4, SEMA3F, TIMP2, TUBGCP2"
+"('Heart_Nuclei', 'Adipocyte')",259,6,2.32,4.8,"CCL20, CTSB, CXCL1, CXCL8, IL6, MMP14"
+"('Heart_Nuclei', 'Atrial Cardiomyocyte')",308,1,0.32,0.8,IGFBP2
+"('Heart_Nuclei', 'CD4T')",23,0,0.0,0.0,
+"('Heart_Nuclei', 'CD8T')",10,0,0.0,0.0,
+"('Heart_Nuclei', 'Endothelial cell')",89,2,2.25,1.6,"FGF1, IGFBP6"
+"('Heart_Nuclei', 'Fibroblast')",58,1,1.72,0.8,IGFBP2
+"('Heart_Nuclei', 'Macrophage')",36,3,8.33,2.4,"CCL20, CCL3L1, CCL8"
+"('Heart_Nuclei', 'Mono+mac')",23,3,13.04,2.4,"CCL3L1, CCL8, IL1A"
+"('Heart_Nuclei', 'Monocyte')",283,4,1.41,3.2,"CCL3, CCL8, IGFBP4, SPP1"
+"('Heart_Nuclei', 'Mural cell')",88,1,1.14,0.8,IGFBP2
+"('Heart_Nuclei', 'Neural cell')",291,12,4.12,9.6,"C3, CCL2, CXCL1, CXCL12, CXCL8, EGF, ICAM1, IGFBP6, IL15, IL32, NRG1, SERPINE2"
+"('Heart_Nuclei', 'Ventricular Cardiomyocyte')",1005,9,0.9,7.2,"AREG, CCL2, CXCL12, ETS2, IGFBP5, IQGAP2, ITGA2, TNFRSF11B, TNFRSF1A"
+"('Ileum', 'B cell')",99,0,0.0,0.0,
+"('Ileum', 'CD4T')",61,3,4.92,2.4,"CCL20, CCL4, PTGER2"
+"('Ileum', 'CD8T')",15,1,6.67,0.8,TNF
+"('Ileum', 'Crypt stem cell')",1654,8,0.48,6.4,"BMP2, CCL20, CXCL1, ICAM1, IGFBP3, PAPPA, PGF, TIMP2"
+"('Ileum', 'Endothelial cell')",328,3,0.91,2.4,"IQGAP2, ITPKA, SERPINE1"
+"('Ileum', 'Enterocyte')",284,3,1.06,2.4,"GDF15, GEM, SERPINE2"
+"('Ileum', 'Enteroendocrine cell')",126,3,2.38,2.4,"CCL20, EREG, PLAUR"
+"('Ileum', 'Fibroblast')",303,1,0.33,0.8,ITGA2
+"('Ileum', 'Goblet cell')",1370,4,0.29,3.2,"ANGPTL4, GDF15, ITPKA, SCAMP4"
+"('Ileum', 'Paneth cell')",1324,7,0.53,5.6,"CCL20, CXCL2, CXCL3, GDF15, IL15, SCAMP4, TNFRSF11B"
+"('Ileum', 'Plasma cell')",349,1,0.29,0.8,ANGPTL4
+"('Ileum', 'gdT')",150,2,1.33,1.6,"IL10, PTGER2"
+"('Kidney', 'CD4T')",15,0,0.0,0.0,
+"('Kidney', 'CD8T')",25,0,0.0,0.0,
+"('Kidney', 'Endothelial cell')",102,1,0.98,0.8,MMP14
+"('Kidney', 'Epithelial cell')",123,9,7.32,7.2,"AREG, CCL3, CCL4, CCL5, FGF7, GMFG, LCP1, PLAUR, TNFRSF1B"
+"('Kidney', 'Fibroblast')",826,14,1.69,11.2,"C3, CCL4, CXCL16, DKK1, FGF7, GMFG, IGF1, IQGAP2, LCP1, MMP14, PIGF, PTGES, TNF, VEGFC"
+"('Kidney', 'Mono+mac')",400,9,2.25,7.2,"AXL, C3, CCL2, CCL3L1, CCL5, CCL8, GEM, IL18, IL32"
+"('Kidney', 'NK')",2333,6,0.26,4.8,"ICAM1, IL6ST, MMP9, PTBP1, SCAMP4, SERPINE2"
+"('Lung', 'Adventitial cell')",219,3,1.37,2.4,"CXCL3, DKK1, GMFG"
+"('Lung', 'Alveolar adventitial fibroblast')",48,2,4.17,1.6,"CCL20, CXCL3"
+"('Lung', 'Basal cell')",126,0,0.0,0.0,
+"('Lung', 'Basophil')",14,0,0.0,0.0,
+"('Lung', 'Bronchial smooth muscle cell')",128,1,0.78,0.8,SCAMP4
+"('Lung', 'CD4T')",41,0,0.0,0.0,
+"('Lung', 'CD8T')",39,0,0.0,0.0,
+"('Lung', 'Capillary endothelial cell')",119,5,4.2,4.0,"AXL, CXCL2, CXCL3, CXCL8, IGF1"
+"('Lung', 'Club cell')",340,3,0.88,2.4,"HGF, IGFBP5, VGF"
+"('Lung', 'Endothelial cell of artery')",269,3,1.12,2.4,"AXL, CXCL1, IGF1"
+"('Lung', 'Endothelial cell of lymphatic vessel')",1366,5,0.37,4.0,"EGFR, GEM, IL1B, NRG1, PLAUR"
+"('Lung', 'Macrophage')",132,1,0.76,0.8,IGF1
+"('Lung', 'Monocyte')",133,2,1.5,1.6,"IL15, NRG1"
+"('Lung', 'Multiciliated epithelial cell')",177,0,0.0,0.0,
+"('Lung', 'Plasma cell')",37,0,0.0,0.0,
+"('Lung', 'Pulmonary alveolar type 1 cell')",145,4,2.76,3.2,"CXCL3, CXCL8, GMFG, IGFBP2"
+"('Lung', 'Pulmonary alveolar type 2 cell')",63,3,4.76,2.4,"IGF1, IGFBP2, IL1A"
+"('Lung', 'Respiratory tract goblet cell')",292,5,1.71,4.0,"GMFG, IGF1, IL1A, IL1B, SELPLG"
+"('Lung', 'Vein endothelial cell')",65,1,1.54,0.8,NRG1
+"('Skin', 'CD4T')",3552,12,0.34,9.6,"BEX3, CXCL16, IGFBP3, IGFBP4, IGFBP5, IL15, IL6, IL7, PIGF, PLAT, TNFRSF1A, TUBGCP2"
+"('Skin', 'CD8T')",3493,15,0.43,12.0,"CTSB, CXCL16, IGFBP3, IGFBP4, IL15, IL6, IL7, PECAM1, PIGF, PLAT, PTGER2, SCAMP4, SERPINE2, TNFRSF1A, TUBGCP2"
+"('Skin', 'DC')",3955,10,0.25,8.0,"ACVR1B, CCL13, CCL20, CCL5, CXCL10, HGF, IGFBP3, IL7, MMP14, NRG1"
+"('Skin', 'Differentiated_KC')",57,0,0.0,0.0,
+"('Skin', 'Fibroblast')",1908,12,0.63,9.6,"BMP6, CCL13, CCL26, CCL3, CCL4, CCL5, CXCL8, LCP1, MMP3, PECAM1, TNFRSF11B, TNFRSF1B"
+"('Skin', 'LE')",3335,21,0.63,16.8,"ACVR1B, ANGPTL4, AREG, C3, CCL3, CCL4, CCL5, CSF2RB, CXCL8, FAS, FGF2, IL15, IL6, IQGAP2, LCP1, PLAUR, SCAMP4, SEMA3F, TNFRSF1B, VEGFA, VEGFC"
+"('Skin', 'Macrophage')",5079,16,0.32,12.8,"ANGPTL4, BEX3, BMP2, C3, CCL5, CXCR2, GDF15, HGF, ICAM3, IL6, IL7, NRG1, PIGF, PTGES, SPP1, TNFRSF10C"
+"('Skin', 'Mast cell')",1982,8,0.4,6.4,"ANGPTL4, CXCL8, GEM, IL13, PIGF, PTGER2, SCAMP4, TNFRSF1B"
+"('Skin', 'Melanocyte')",338,1,0.3,0.8,CCL4
+"('Skin', 'NK')",1423,5,0.35,4.0,"CTSB, IGFBP4, IL15, PECAM1, TUBGCP2"
+"('Skin', 'Pericyte')",2002,14,0.7,11.2,"AREG, BMP6, C3, CCL20, CCL4, CCL5, GDF15, IQGAP2, LCP1, MMP2, PECAM1, PLAU, SEMA3F, TNFRSF1B"
+"('Skin', 'Treg')",4696,19,0.4,15.2,"AREG, C3, CCL3, CCL4, CCL5, CSF2RB, CXCL16, ETS2, IGFBP4, IGFBP5, IGFBP6, IL10, IL15, IL6, ITGA2, PIGF, PTGER2, SERPINE2, TNFRSF1A"
+"('Skin', 'VE')",1455,14,0.96,11.2,"ANGPTL4, C3, CCL3, CCL4, CCL5, CXCL1, IQGAP2, LCP1, MMP1, MMP14, PTGES, SELPLG, SERPINE2, VEGFA"

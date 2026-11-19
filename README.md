@@ -16,11 +16,11 @@ This branch contains the source code and computational workflows for the study o
 
 The analysis focuses on the identification of cell type-specific senescence signatures, characterization of tissue-dependent transcriptional profiles, age-associated changes in senescent cell abundance, and interactions between senescent cells and their tissue microenvironment.
 
-**Associated publication:**
-
-Matveeva K, Shevyrev D. *Senescent Cell Heterogeneity: Tissue-Dependent Signatures and Age Dynamics Revealed by Human scRNA-Seq Data.* International Journal of Molecular Sciences. 2026;27(18):8416.
-
-[https://doi.org/10.3390/ijms27188416](https://doi.org/10.3390/ijms27188416)
+>**Associated publication:**
+>
+>Matveeva K, Shevyrev D. *Senescent Cell Heterogeneity: Tissue-Dependent Signatures and Age Dynamics Revealed by Human scRNA-Seq Data.* International Journal of Molecular Sciences. 2026;27(18):8416.
+>
+>[https://doi.org/10.3390/ijms27188416](https://doi.org/10.3390/ijms27188416)
 
 ### [`benchmark`](https://github.com/estakathersun/sen_heterogeneity_paper/tree/benchmark)
 
